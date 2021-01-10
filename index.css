@@ -1,0 +1,45 @@
+body {
+  background-color: #264653;
+  color: white;
+}
+
+#title {
+  padding: 3vh 3vh 1vh 3vh;
+  color: #e76f51;
+  font-family: 'Redressed', cursive;
+  font-size: 8vh;
+}
+#subtitle {
+  font-size: 2.5vh;
+}
+.row {
+  padding-top: 30vh;
+}
+#sampleText {
+  background-color: #2a9d8f;
+  color: #FFFFFF;
+  padding: 5vh 5vh 5vh 5vh;
+  font-size: 2vh;
+  margin: 0 3vw 0 3vw;
+}
+#inputTextColor {
+  background-color: #FFFFFF;
+  width: 15vw;
+  height: 2vh;
+  margin: 2vh 1vw 2vh 5vw;
+}
+#inputBgColor {
+  background-color: #2a9d8f;
+  width: 15vw;
+  height: 2vh;
+  margin: 2vh 1vw 2vh 5vw;
+}
+label {
+  margin: 2vh 1vw 2vh 5vw;
+}
+input {
+  margin: 2vh 1vw 2vh 5vw;
+}
+.color-picker-text {
+  margin: 2vh 1vw 2vh 5vw;
+}
