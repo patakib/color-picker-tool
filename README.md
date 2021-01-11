@@ -8,5 +8,5 @@ The user can give hex values for both text and background and he/she can change 
 <img src="color-picker-tool-img.png">
 <br>
 <br>
-![video](color-picker-tool-video.gif)
+![](https://github.com/patakib/color-picker-tool/blob/master/color-picker-tool-video.gif)
 
