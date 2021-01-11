@@ -8,6 +8,5 @@ The user can give hex values for both text and background and he/she can change 
 <img src="color-picker-tool-img.png">
 <br>
 <br>
-<video width="400" controls>
-  <source src="color-picker-tool-video.mp4" type="video/mp4">
-</video>
+[](color-picker-tool-video.mp4)
+
